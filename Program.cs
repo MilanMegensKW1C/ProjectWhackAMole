@@ -15,6 +15,3 @@ namespace WhackAMole
         }
     }
 }
-
-TEST TEST
-TEST
